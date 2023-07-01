@@ -1,4 +1,4 @@
-Deployed Links: cm82.paabeelee.com
+Links: cm82.paabeelee.com
 
 
 Open Department Account to CREATE PPMP

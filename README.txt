@@ -1,6 +1,9 @@
 Deployed Links: cm82.paabeelee.com
 
 Accounts
+Admin: 
+user: admin
+pass: admin1
 
 College of Industrial Technology (CIT)
 Office Unit                                         Name of Officials       Username        Password

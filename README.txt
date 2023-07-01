@@ -2,8 +2,11 @@ Deployed Links: cm82.paabeelee.com
 
 
 Open Department Account to CREATE PPMP
-Open College Account to Generate the PPMP ( needed to generate PPMP first to be directed to Budget Officer account)
-Open Budget Officer Account To Generate APP
+Open College Account to Generate the PPMP ( needed to generate PPMP first to be directed to BO account)
+Open Sector Head Account To Generate PPMP
+Open Bac Sec Account To Generate PPMP
+Open Budget Officer Account To Approve and Reject to Generate APP
+
 
 Accounts
 Admin: 

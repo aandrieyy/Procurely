@@ -1,5 +1,10 @@
 Deployed Links: cm82.paabeelee.com
 
+
+Open Department Account to CREATE PPMP
+Open College Account to Generate the PPMP ( needed to generate PPMP first to be directed to Budget Officer account)
+Open Budget Officer Account To Generate APP
+
 Accounts
 Admin: 
 user: admin
